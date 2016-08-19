@@ -94,6 +94,7 @@ int main(int argc, char **argv)
 		return -1;
 	}
 	//printf("hello_handle:%x \n", (int)hello_handle);
+	//printf("hello_handle:%x \n", (int)hello_handle);
 	
 	hello(bs, hello_handle);
 
